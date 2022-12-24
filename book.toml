@@ -1,0 +1,6 @@
+[book]
+authors = ["Ethan McCue"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Java Programming Language"
