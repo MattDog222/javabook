@@ -4,6 +4,8 @@
     - ["The Java Programming Language" (1st or 2nd ed)](./examples/the_java_programming_language_og.md)
     - ["The Java Tutorial" (3rd ed)](./examples/the_java_tutorial_3rd_edition.md)
     - [w3schools](./examples/w3schools.md)
+    - [tutorialspoint](./examples/tutorialspoint.md)
+    - [tutorialspoint paid course](./examples/tutorialspoint_paid.md)
 - [Hello, World](./hello_world.md)
 - [Data Types]()
     - [int and long]()
