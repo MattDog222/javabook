@@ -1,5 +1,8 @@
 # Summary
-
+- [Example Paths]()
+    - [dev.java](./examples/dev_java.md)
+    - ["The Java Programming Language" (1st or 2nd ed)](./examples/the_java_programming_language_og.md)
+    - ["The Java Tutorial" (3rd ed)](./examples/the_java_tutorial_3rd_edition.md)
 - [Hello, World](./hello_world.md)
 - [Data Types]()
     - [int and long]()

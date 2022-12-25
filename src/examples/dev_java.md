@@ -56,7 +56,6 @@
         - [Writing Lambda Expressions as Method References]()
         - [Combining Lambda Expressions]()
         - [Writing and Combining Comparators]()
-
     - [Annotations]()
     - [Packages]()
     - [Using Pattern Matching]()
